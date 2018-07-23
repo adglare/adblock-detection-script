@@ -5,7 +5,7 @@ JavaScript function to detect the presence of an ad blocker. More info in the bl
 Include the JS file, and then call the function `hasAdblock`.
 
 ## Example
-`
+```
 <script src='adblock-detection-script.js'></script>
 <script>
   if(hasAdblock()) {
@@ -14,4 +14,4 @@ Include the JS file, and then call the function `hasAdblock`.
     //do something
   }
   </script>
-`
+```
