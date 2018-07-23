@@ -2,7 +2,7 @@
 JavaScript function to detect the presence of an ad blocker. More info in the blog post on [AdGlare Ad Server](https://www.adglare.com/kb/45/adblock-detection-script-incredibly-simple-and-effective).
 
 ## Usage
-Include the JS file, and then call the function `hasAdblock`.
+Include the JS file, and then call the function `hasAdblock()`.
 
 ## Example
 ```
@@ -13,5 +13,5 @@ Include the JS file, and then call the function `hasAdblock`.
   } else {
     //do something
   }
-  </script>
+</script>
 ```
