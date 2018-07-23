@@ -17,4 +17,5 @@ function hasAdblock() {
     } catch (e) {}
     return r;
 }
+
 alert('Has AdBlock: ' + hasAdblock());
